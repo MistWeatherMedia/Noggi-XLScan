@@ -67,3 +67,5 @@ Do you have experience with viz!artist 2.8, or how the TWC product XMLs work? Yo
 - Add Aviation products (will be added when I2ME has airport support)
 - Add more map products
 - Convert files into the starbundles
+- Add bulletin crawl
+- Add XL Map
